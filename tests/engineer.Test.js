@@ -8,7 +8,7 @@ describe ("Engineer", () => {
             expect(engineer.name).toEqual('Troy');
             expect(engineer.id).toEqual(123456);
             expect(engineer.email).toEqual('Troy@email.com');
-            expect(engineer.github).toEqual('Troygit');
+            expect(engineer.github).toEqual('troygit');
         })      
     })
 });
