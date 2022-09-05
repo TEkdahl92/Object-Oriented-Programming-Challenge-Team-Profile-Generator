@@ -55,7 +55,7 @@ const toDoNext = () => {
             
         }
     ])    
-    // Sends user to correct function based on choice
+    // Starts to create employees based off of users choice
     .then((answer) => {
             if (answer.add === 'Add an engineer'){
                 createEngineer();
