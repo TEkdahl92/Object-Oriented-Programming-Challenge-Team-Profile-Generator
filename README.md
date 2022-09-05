@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Walkthrough Video
-
+[Walkthrough Video](https://drive.google.com/file/d/1CAsw2wKRGnBo4MQHMlvdky33CA9TAISU/view)
 
 ## Description
 This program allows a manager to take in information about employees on a software engineering team and populate an HTML webpage that displays summaries for each team member. 
